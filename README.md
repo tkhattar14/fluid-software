@@ -57,9 +57,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). The short version:
 
 Three ideas converged:
 
-- **Andrej Karpathy's "Idea Files"** — share concepts, not code. The idea is the primitive.
+- **Andrej Karpathy's ["Idea Files"](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)** — share concepts, not code. The idea is the primitive.
 - **Peter Steinberger's "Prompt Requests"** — review intent, not artifacts.
-- **Garry Tan's GBrain** — markdown at scale, managed by AI agents, works.
+- **Garry Tan's [GBrain](https://github.com/garrytan/gbrain)** — markdown at scale, managed by AI agents, works.
 - **Spec-Driven Development** — specifications, not code, as the primary artifact.
 
 All powerful. All limited to a single person or a single project. Nobody proposed the commons.
